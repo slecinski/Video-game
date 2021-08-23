@@ -1,2 +1,2 @@
 # Fun!
-Playing with Lua and 2D game development
+Playing with LÖVE(Lua) and 2D game development
