@@ -1,9 +1,10 @@
+[INSTALL]
 Download folder "Lua_Game".
 In the folder double click on .exe game to lunch the selected game.
 Play.
 
-
-Yeast snake control: arrows for directions. 
+[GAME CONTROLS]
+Yeast snake: arrows for directions. 
 Bacteria/Phage games: A,W,S,D for directions. J and K for aiming and shooting.
 
 
